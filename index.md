@@ -2,3 +2,6 @@
 ## Second Header test
 ##### Fifth header Test
 # Second "First Header" Test
+
+<img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=200>
+Alt Text testing with the image
