@@ -9,4 +9,8 @@
 ```java
 String Welcome = "Hello World";
 ```
-
+```md
+- [ ] Learn why you can't pass second step
+- [x] Introduce to the world yourself
+- [x] Submit this tutorial
+````
