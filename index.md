@@ -10,7 +10,7 @@
 String Welcome = "Hello World";
 ```
 ```md
-- [ ] Learn why you can't pass second step
+- [x] Learn why you can't pass second step // Görüntü yüklediğimi görmüyor
 - [x] Introduce to the world yourself
 - [x] Submit this tutorial
 ````
